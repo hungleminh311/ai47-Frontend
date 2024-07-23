@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Don't miss out on our limited-time car rental promotion, available for the next 7 days! 1",
+        "linkText": "Book Now 2"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience unmatched convenience and professionalism with our top-tier car rental services.",
+        "title": "Seamless Car Rentals, Just a Click Away"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience unmatched convenience and professionalism with our top-tier car rental services.",
+        "title": "Seamless Car Rentals, Just a Click Away"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience unmatched convenience and professionalism with our top-tier car rental services.",
+        "title": "Seamless Car Rentals, Just a Click Away"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience unmatched convenience and professionalism with our top-tier car rental services.",
+        "title": "Seamless Car Rentals, Just a Click Away"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience unmatched convenience and professionalism with our top-tier car rental services.",
+        "title": "Seamless Car Rentals, Just a Click Away"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience unmatched convenience and professionalism with our top-tier car rental services.",
+        "title": "Seamless Car Rentals, Just a Click Away"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience unmatched convenience and professionalism with our top-tier car rental services.",
+        "title": "Seamless Car Rentals, Just a Click Away"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience unmatched convenience and professionalism with our top-tier car rental services.",
+        "title": "Seamless Car Rentals, Just a Click Away"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Seamless Car Rentals, Just a Click Away",
+  "subtitle": "Experience unmatched convenience and professionalism with our top-tier car rental services."
+}
